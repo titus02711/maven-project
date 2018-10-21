@@ -5,5 +5,6 @@ pipeline {
       steps {
         bat 'mvn clean package'
       }
+    }
   }
 }
